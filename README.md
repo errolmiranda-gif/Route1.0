@@ -4,6 +4,14 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
+Run the commands below from the project directory. If you cloned or extracted
+the repository into `Documents\Route1.0`, enter the nested `Route1.0` folder
+first:
+
+```powershell
+cd .\Route1.0
+```
+
 1. Install dependencies
 
    ```bash
